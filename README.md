@@ -85,3 +85,5 @@ an depend on other functions. The release of this toolbox includes functions fro
 other toolboxes that are covered under their respective licenses. See
 fieldtrip/external for details. Unauthorised copying and distribution of functions
 that are not explicitly covered by the GPL is not allowed.
+
+- change 1
